@@ -1,8 +1,15 @@
-# Alpacalypso
+# [Alpacalypso](https://github.com/merryface/Alpacalyptic)
 - Gulp
 - SCSS layout
 - Carousel
 - Information widget
+
+## What is Alpacalypso
+A reactive alpaca rental site with a hidden widget under the navigation bar in the heading, which plays an alpaca cry and displays a random alpaca fact when clicked on. This was a collaborative effort with two other cohort members in the Develop Me training. From an alpaca singing coach to an alpaca motivational speaker, rent the coolest alpaca with [Alpacalypso](https://github.com/merryface/Alpacalyptic).
+![gif of Alpacalypso site being used](/assets/alpacalyptoDemo.gif)
+
+
+
 
 ## Gulp
 `npm init -yes` was used in the command line to install npm. This created a `package.json` file, where the packages installed are listed. After that gulp was installed using `npm gulp install`.
