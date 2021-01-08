@@ -1,5 +1,5 @@
 # [Alpacalypso](https://github.com/merryface/Alpacalyptic)
-![GitHub repo size](https://img.shields.io/github/repo-size/teemz-app/teemz-frontend?logo=GitHub&style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/merryface/alpacalyptic?logo=GitHub&style=for-the-badge)
 - Gulp
 - SCSS layout
 - Carousel
